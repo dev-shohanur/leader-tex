@@ -1,0 +1,5 @@
+.counter-box:hover .counter-box-left-border {
+   top: 0;
+   left: 0;
+   height: 100%;
+}

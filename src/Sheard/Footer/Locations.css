@@ -1,0 +1,14 @@
+.location>i{
+  max-height: 40px;
+  max-width: 40px;
+  font-size: 20px;
+  border: 1px solid white;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.justify-custom{
+  justify-items: center !important;
+  
+}

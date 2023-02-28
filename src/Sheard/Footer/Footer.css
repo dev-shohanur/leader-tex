@@ -1,0 +1,25 @@
+/* .hover-imagessss>img{
+  position: relative;
+  z-index:;
+} */
+/* .hover-imagessss::after>img:hover{
+  content: '';
+  position: absolute;
+  z-index: -1;
+  width: 50%;
+  height: 50%;
+  top: 0;
+  left: 0;
+  background-color: red;
+} */
+
+
+.nav-items i{
+  display: none;
+}
+
+.nav-items:hover i {
+  color: #deba27;
+  display: block;
+  margin-right: 10px;
+}
